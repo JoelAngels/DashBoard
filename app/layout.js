@@ -1,4 +1,4 @@
-import './globals.css'
+import './ui/globals.css'
 import { Bricolage_Grotesque } from "next/font/google";
 
 
